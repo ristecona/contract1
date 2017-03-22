@@ -30,3 +30,4 @@ addon | version | summary
 [contract_show_invoice](contract_show_invoice/) | 9.0.1.1.0 (unported) | Button in contracts to show their invoices
 
 [//]: # (end addons)
+# contract1
